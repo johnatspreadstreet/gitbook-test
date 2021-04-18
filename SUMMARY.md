@@ -5,7 +5,8 @@
 ## Projects
 
 * [Overview](projects/overview.md)
-* [Compound V2](projects/compound-v2.md)
+* [Compound V2](projects/compound-v2/README.md)
+  * [Liquidation Events](projects/compound-v2/liquidation-events.md)
 
 ---
 
