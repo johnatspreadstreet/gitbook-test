@@ -4,6 +4,7 @@
 
 ## Projects
 
+* [Overview](projects/overview.md)
 * [Compound V2](projects/compound-v2.md)
 
 ---
