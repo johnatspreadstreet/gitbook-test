@@ -27,3 +27,5 @@ The following terms, abbreviations, and phrases may be used throughout these pro
 
 All Advisory Representatives and Supervised Persons of the Firm have the duty to make certain that all laws, regulations, rules, and policies applicable to the Firm’s business are observed in the office\(s\) where they are employed, which consequently obligates such persons to be familiar with and to remain current concerning the Firm’s policies and procedures. Each Advisory Representative must fully comprehend and be thoroughly familiar with these procedures before conducting any business on behalf of the Firm.
 
+### 1.3 Heading
+
