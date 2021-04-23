@@ -6,9 +6,9 @@ description: Testing a page description
 
 ## 1. INTRODUCTION
 
-This RIA Procedures Manual is specifically tailored to {{ procedures.company }} \(the “Firm”\) and its investment advisory activities. These procedures establish a system of supervision and controls reasonably designed to ensure compliance with applicable securities laws, rules, and regulations. These procedures will govern the supervision of the Firm’s investment advisory business until such time as they are amended. 
+This RIA Procedures Manual is specifically tailored to Tavco Financial Advisory, Inc. \(the “Firm”\) and its investment advisory activities. These procedures establish a system of supervision and controls reasonably designed to ensure compliance with applicable securities laws, rules, and regulations. These procedures will govern the supervision of the Firm’s investment advisory business until such time as they are amended. 
 
-### 1.1 Terms and Abbreviations We Have Added
+### 1.1 Terms and Abbreviations Addendum
 
 The following terms, abbreviations, and phrases may be used throughout these procedures: 
 
