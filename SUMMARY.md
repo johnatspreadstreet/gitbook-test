@@ -12,3 +12,7 @@
 
 * [Changelog](changelog.md)
 
+## Procedures Manual
+
+* [Overview](procedures-manual/overview.md)
+
